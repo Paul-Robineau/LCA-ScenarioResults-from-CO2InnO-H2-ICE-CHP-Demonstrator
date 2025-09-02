@@ -8,7 +8,7 @@ The associated scientific article will be linked as soon as it is published.
 
 This repository contains LCI and LCIA datasets used in a LCA (Life-Cycle Assessment) study, derived from the outputs of a TEA (Techno-Economic Assessment) `OpenModelica` model which code is also available in Github under the name [CO2InnO-H2-CHP-Demonstrator](https://github.com/IKKUengine/CO2InnO-H2-CHP-Demonstrator). It is used for the study of decentralized energy systems (DES) based on hydrogen use (H₂) and using H₂ in an internal combustion engine for combined heat & power (ICE-CHP). 
 
-The LCI datasets come with a synthetic documentation explaining the determination of each flow of the Life-Cycle Inventory (LCI) for the different scenarios studied. The full and ready-to-use `Brightway2` project can be transmitted on demand, provided you have a valid `ecoinvent v3.10` license. The LCIA datasets are provided with the `lcia_results` Jupyter Notebook used to process them in order to create relevant visualizations of the Life-Cycle Impact Assessment (LCIA) for the LCA study.
+The LCI datasets come with a synthetic documentation explaining the determination of each flow of the Life-Cycle Inventory (LCI) for the different scenarios studied. The full and ready-to-use `Brightway2` project can be transmitted on demand, provided you have a valid `ecoinvent v3.10` license. The LCIA datasets are provided with the `lcia_results` Jupyter Notebook used to process them in order to create relevant visualizations of the Life-Cycle Impact Assessment (LCIA) for the LCA study. An alternate version of this repository is hosted on [Zenodo](https://doi.org/10.5281/zenodo.17020672) without modifications. 
 
 ## Objective & Methodology
 
